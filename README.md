@@ -1,4 +1,4 @@
-# angular-morris-js
+# ngx-morris-js
 
 MorrisJs implementation for Angular 4+
 
